@@ -2,7 +2,6 @@
 
 namespace gorriecoe\SecurityLinks;
 
-use SilverStripe\Forms\FieldList;
 use SilverStripe\ORM\DataExtension;
 use SilverStripe\Security\Security;
 
