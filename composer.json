@@ -1,0 +1,25 @@
+{
+  "name": "gorriecoe/silverstripe-securitylinks",
+  "description": "Adds a login, logout and lost password link types to Link Object.",
+  "type": "silverstripe-vendormodule",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Gorrie Coe",
+      "email": "gorriecoe@gmail.com"
+    }
+  ],
+  "keywords": [
+    "silverstripe",
+    "login",
+    "logout",
+    "link"
+  ],
+  "homepage": "http://github.com/gorriecoe/silverstripe-securitylinks",
+  "require": {
+    "gorriecoe/silverstripe-link": "^1.2.3"
+  },
+  "extra": {
+    "installer-name": "securitylinks"
+  }
+}

@@ -1,0 +1,5 @@
+en:
+  gorriecoe\Link\Models\Link:
+    LOGIN: 'Login link'
+    LOGOUT: 'Logout link'
+    LOSTPASWORD: 'Lost password link'

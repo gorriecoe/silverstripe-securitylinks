@@ -1,0 +1,6 @@
+---
+Name: securitylinksconfig
+---
+gorriecoe\Link\Models\Link:
+  extensions:
+    - gorriecoe\SecurityLinks\SecurityLinksExtension
